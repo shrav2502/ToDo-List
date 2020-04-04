@@ -80,6 +80,7 @@ button:hover {
 
 input[type="text"] {
   width: 240px;
+  font-size: 20px;
 }
 
 .pic1 {
