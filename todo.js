@@ -5,7 +5,6 @@ scroll.addEventListener("click", function (e) {
   if (e.target.className === "del") {
     const todo = e.target.parentElement;
     scroll.removeChild(todo);
-    alert("Yaay, you finished a task :)");
   }
 });
 

@@ -67,7 +67,7 @@
 
 input[type="text"],
 button {
-  padding: 15px;
+  padding: 12px;
 }
 
 button {
@@ -80,7 +80,7 @@ button:hover {
 
 input[type="text"] {
   width: 240px;
-  font-size: 20px;
+  font-size: 15px;
 }
 
 .pic1 {
@@ -116,4 +116,5 @@ input[type="text"] {
   height: 350px;
   overflow: auto;
   margin-left: 20px;
+  width: 300px;
 }
